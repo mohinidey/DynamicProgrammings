@@ -13,5 +13,11 @@
     <ClCompile Include="DynamicProgrammings.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ClimbStairsProblem.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
+    <ClCompile Include="MinStepClimbStairs.cpp">
+      <Filter>DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
